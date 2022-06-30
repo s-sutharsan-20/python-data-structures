@@ -1,0 +1,12 @@
+string="python is a genral purpose programming language "
+print(string.capitalize())
+print(len(string))
+print(string+"Designed by Guido Van Rossum!")
+print("programming "+" Language")
+print("Python "+"is a Programming language")
+print("Python "*3)
+print(string[0:6])
+print(string[:6])
+print(string[6:])
+print(string[0:6:2])
+print(string[::2])
